@@ -1,0 +1,12 @@
+{
+  "title": "Dietitian assessment and protein-energy delivery in critically ill patients with kidney disease: MIMIC-III analysis code",
+  "upload_type": "software",
+  "description": "<p>Python code and reference tables that reproduce the analyses of the manuscript 'Dietitian assessment, timing of enteral nutrition and protein-energy delivery in critically ill patients with kidney disease: a retrospective cohort study' (MIMIC-III v1.4). No patient data are included; MIMIC-III must be obtained from PhysioNet under its data use agreement.</p>",
+  "creators": [
+    {"name": "Badriyah, Tessy", "affiliation": "Politeknik Elektronika Negeri Surabaya", "orcid": "0000-0003-1905-3797"},
+    {"name": "Faradisa, Rosiyah", "affiliation": "Politeknik Elektronika Negeri Surabaya"}
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": ["MIMIC-III", "enteral nutrition", "kidney replacement therapy", "dietitian", "critical care", "ESPEN", "ASPEN"]
+}

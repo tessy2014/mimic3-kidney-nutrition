@@ -1,0 +1,42 @@
+pattern,product,type,unit,kcal_per_unit,protein_g_per_unit,verified,note
+peptamen bariatric,Peptamen Bariatric,EN,ml,1.0,0.092,yes,"Changed 0.0936->0.092: Nestle Critical Care Selection Guide 92 g/L at 1.0 kcal/mL (https://www.nestlemedicalhub.com//sites/default/files/2019-09/Critical%20Care%20%26%20Surgery%20Selection%20Guide.pdf); AI-assisted web search 2026-11-14, spot-check by author"
+boost glucose control,Boost Glucose Control,EN,ml,0.80,0.0675,yes,"190 kcal and 16 g protein per 237 mL; Nestle Boost diabetes sheet (https://www.nestlemedicalhub.com//sites/default/files/2021-09/BOOST%C2%AE%20Addressing%20Nutritional%20Needs%20of%20Patients%20with%20Diabetes%20in%20Acute%20Care.pdf); AI-assisted web search 2026-11-14, spot-check by author"
+ensure plus,Ensure Plus,EN,ml,1.48,0.0549,yes,"350 kcal and 13 g protein per 237 mL; Abbott Ensure Plus Therapeutic Nutrition (https://abbottnutrition.com/ensure-plus-therapeutic-nutrition); AI-assisted web search 2026-11-14, spot-check by author"
+ensure,Ensure,EN,ml,1.06,0.038,yes,"Institutional Ensure Original Therapeutic Nutrition 250 kcal and 9 g protein per 237 mL (https://abbottnutrition.com/ensure-plus-therapeutic-nutrition states 250 Cal/8 fl oz); retail version is 220 kcal; AI-assisted web search 2026-11-14, spot-check by author"
+beneprotein,Beneprotein (powder),MODULAR,g,3.57,0.857,yes,"25 kcal and 6 g protein per 7 g scoop; https://www.nestlehealthconnect.com.au/products/beneprotein; AI-assisted web search 2026-11-14, spot-check by author"
+\bnepro,Nepro,EN,ml,1.8,0.081,yes,"1.8 kcal/mL and 81 g protein/L; Abbott Nepro with CARBSTEADY (https://abbottnutrition.com/nepro-with-carbsteady); AI-assisted web search 2026-11-14, spot-check by author"
+novasource renal,Novasource Renal,EN,ml,2.0,0.091,yes,"2.0 kcal/mL and 91 g protein/L; https://www.nestlehealthconnect.com.au/sites/default/files/2021-06/Novasource_Renal_Clinical_Uses_and_Information.pdf; AI-assisted web search 2026-11-14, spot-check by author"
+nutren renal,Nutren Renal,EN,ml,2.0,0.070,not_found,"Discontinued; no current manufacturer label found. Value kept from older Nestle data (500 kcal, 17.5 g per 250 mL); AI-assisted web search 2026-11-14, spot-check by author"
+suplena,Suplena,EN,ml,,,no,fill from label
+renalcal,Renalcal,EN,ml,,,no,fill from label
+replete,Replete (incl. with fiber),EN,ml,1.0,0.0625,yes,"1.0 kcal/mL and 62.5 g protein/L (Replete Fiber 64 g/L); Memorial Hermann 2015 Nestle formulary chart (https://www.aast.org/Assets/0d0f2842-c4a4-47b6-99ee-ac93c2aa129c/636076538351330000/memorial-hermann-hospital-system-11-9-15-with-unit-chart-pdf); AI-assisted web search 2026-11-14, spot-check by author"
+promote,Promote (incl. with fiber),EN,ml,1.0,0.0625,no,Abbott label; verify
+peptamen 1\.5,Peptamen 1.5,EN,ml,1.5,0.068,yes,"1.5 kcal/mL and 68 g protein/L; Peptamen reference chart (https://www.nestlemedicalhub.com//sites/default/files/2020-10/Peptamen-Family-Reference-Chart.pdf); AI-assisted web search 2026-11-14, spot-check by author"
+peptamen vhp,Peptamen VHP,EN,ml,1.0,0.0625,no,Nestle label; verify
+peptamen,Peptamen 1.0,EN,ml,1.0,0.040,no,Nestle label; verify
+vivonex,Vivonex RTF,EN,ml,1.0,0.050,yes,"1.0 kcal/mL and 50 g protein/L; Vivonex RTF (https://www.nestlemedicalhub.com/product/generatepdf/90/150/500); AI-assisted web search 2026-11-14, spot-check by author"
+impact peptide,Impact Peptide 1.5,EN,ml,1.5,0.094,yes,"1.5 kcal/mL and 94 g protein/L; Nestle Critical Care Selection Guide; AI-assisted web search 2026-11-14, spot-check by author"
+impact,Impact (incl. with fiber),EN,ml,1.0,0.056,yes,"1.0 kcal/mL and 56 g protein/L (Impact with Fiber 1.0 kcal/mL, 22% kcal protein = about 55 g/L); Nestle Critical Care Selection Guide (https://www.nestlemedicalhub.com//sites/default/files/2019-09/Critical%20Care%20%26%20Surgery%20Selection%20Guide.pdf); AI-assisted web search 2026-11-14, spot-check by author"
+nutren 2\.0,Nutren 2.0,EN,ml,2.0,0.084,yes,"Changed 0.080->0.084: 2.0 kcal/mL and 21 g protein per 250 mL (84 g/L); https://hartmedical.org/uploads/userfiles/files/documents/products/Nutren 2.0 Unflavored.pdf; AI-assisted web search 2026-11-14, spot-check by author"
+nutren pulmonary,Nutren Pulmonary,EN,ml,1.5,0.068,yes,"1.5 kcal/mL and 68 g protein/L; Memorial Hermann 2015 Nestle formulary chart; AI-assisted web search 2026-11-14, spot-check by author"
+isosource 1\.5,Isosource 1.5,EN,ml,1.5,0.068,yes,"1.5 kcal/mL and 68 g protein/L; https://lancastermed.com/products/isosource-15-calorie-fiber; AI-assisted web search 2026-11-14, spot-check by author"
+fibersource,Fibersource HN,EN,ml,1.2,0.054,yes,"1.2 kcal/mL and 54 g protein/L; https://www.nestlemedicalhub.com/products/fibersource-hn; AI-assisted web search 2026-11-14, spot-check by author"
+two cal,Two Cal HN,EN,ml,2.0,0.0835,yes,"2.0 kcal/mL and 83.5 g protein/L; Abbott TwoCal HN (https://abbottnutrition.com/twocal-hn); AI-assisted web search 2026-11-14, spot-check by author"
+pulmocare,Pulmocare,EN,ml,1.5,0.0626,yes,"1.5 kcal/mL and 62.6 g protein/L; Abbott Pulmocare (https://abbottnutrition.com/pulmocare); AI-assisted web search 2026-11-14, spot-check by author"
+jevity 1\.5,Jevity 1.5,EN,ml,1.5,0.0638,no,Abbott label; verify
+jevity 1\.2,Jevity 1.2,EN,ml,1.2,0.0555,no,Abbott label; verify
+jevity,Jevity 1.0,EN,ml,1.06,0.044,no,Abbott label; verify
+osmolite 1\.5,Osmolite 1.5,EN,ml,1.5,0.0627,no,Abbott label; verify
+osmolite 1\.2,Osmolite 1.2,EN,ml,1.2,0.0555,no,Abbott label; verify
+osmolite,Osmolite 1.0,EN,ml,1.06,0.0443,no,Abbott label; verify
+glucerna,Glucerna 1.2,EN,ml,1.2,0.060,yes,"1.2 kcal/mL and 60 g protein/L; Abbott Glucerna 1.2 Cal (https://abbottnutrition.com/glucerna-1_2-cal); AI-assisted web search 2026-11-14, spot-check by author"
+probalance,ProBalance,EN,ml,1.2,0.054,not_found,"Discontinued Nestle product; no manufacturer label found. Value kept (1.2 kcal/mL, 54 g/L); AI-assisted web search 2026-11-14, spot-check by author"
+prosource,ProSource liquid,MODULAR,ml,3.33,0.50,no,100 kcal and 15 g protein per 30 mL; verify
+propofol,Propofol 1%,PROPOFOL,ml,1.1,0,no,lipid 10%; amounts in mg are converted at 10 mg/mL
+amino acids,PN amino acids (recorded in grams),PN_COMP,g,4.0,1.0,no,"1 g amino acids = 1 g protein equivalent, 4 kcal/g"
+dextrose pn,PN dextrose (recorded in grams),PN_COMP,g,3.4,0,no,dextrose monohydrate 3.4 kcal/g
+lipids \(additive\),PN lipids (recorded in grams),PN_COMP,g,10.0,0,no,lipid emulsion about 10 kcal per g fat; verify
+lipids 20%,Lipid emulsion 20%,PN_COMP,ml,2.0,0,no,20% lipid emulsion 2.0 kcal/mL
+tpn|parenteral|ppn|clinimix,Parenteral nutrition,PN,ml,,,no,composition not recorded in MIMIC-III; used only to flag PN
+lipid|intralipid|smoflipid,Lipid emulsion,PN,ml,,,no,flags PN
+free water|water flush|flush,Free water,EXCLUDE,ml,0,0,yes,no nutrients

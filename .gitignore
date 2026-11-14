@@ -1,0 +1,8 @@
+# Never commit MIMIC data or patient-level outputs
+*.csv.gz
+*.csv.zip
+outputs/
+local_*
+NOTEEVENTS*
+.ipynb_checkpoints/
+__pycache__/

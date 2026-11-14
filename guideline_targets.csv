@@ -1,0 +1,9 @@
+guideline,group,protein_low,protein_high,kcal_low,kcal_high,source
+ASPEN/SCCM,No kidney disease,1.2,2.0,12,25,McClave 2016 (protein); Compher 2022 (energy first 7-10 days)
+ASPEN/SCCM,Kidney disease without KRT,1.2,2.0,12,25,McClave 2016: AKI not on KRT follows standard ICU protein; Compher 2022 energy
+ASPEN/SCCM,Intermittent KRT,1.2,2.5,12,25,McClave 2016: frequent haemodialysis or CKRT up to 2.5 g/kg/day
+ASPEN/SCCM,CKRT,1.2,2.5,12,25,McClave 2016: frequent haemodialysis or CKRT up to 2.5 g/kg/day
+ESPEN,No kidney disease,1.3,,20,25,Singer 2019/2023: progressive increase to 1.3 g/kg/day; 20-25 kcal/kg after early phase
+ESPEN,Kidney disease without KRT,1.0,1.3,20,25,Fiaccadori 2021: start 1.0 and increase to 1.3 g/kg/day if tolerated
+ESPEN,Intermittent KRT,1.3,1.5,20,25,Fiaccadori 2021: conventional intermittent KRT 1.3-1.5 g/kg/day
+ESPEN,CKRT,1.5,1.7,20,25,Fiaccadori 2021 Recommendation 18: CKRT or PIKRT 1.5 up to 1.7 g/kg/day (verified)
